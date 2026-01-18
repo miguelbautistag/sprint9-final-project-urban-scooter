@@ -98,7 +98,9 @@ https://drive.google.com/file/d/1P_bEQsEMQQ-2uEiii_NTWA1oCa9qF2H4/view
 
 - **Bug Example**
 <img width="1112" height="866" alt="image" src="https://github.com/user-attachments/assets/ab2f06e2-da6a-4681-89f2-04e87e27fa20" />
+
 - **Bug Evidence**
+
 <img width="738" height="608" alt="image" src="https://github.com/user-attachments/assets/b6ae1662-3cc0-4075-8d6d-8cbd9f6bdc0f" />
 
 ---
